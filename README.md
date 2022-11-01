@@ -5,7 +5,7 @@
 ### 1 - Base
 - `Download ZIP` ;
 - Extract all folders where you want ;
-- Go to the link : https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/ ;
+- Go to the link : https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/ ;
 - Download the `Latest Recommended` ;
 - Configure your `start.bat`.
 
